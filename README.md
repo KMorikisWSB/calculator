@@ -1,5 +1,9 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/wsb2012krzysiekmDevOps/project-2/_apis/build/status/KMorikisWSB.calculator?branchName=master)](https://dev.azure.com/wsb2012krzysiekmDevOps/project-2/_build/latest?definitionId=8&branchName=master)
+
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
